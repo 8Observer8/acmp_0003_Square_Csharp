@@ -1,0 +1,7 @@
+D:\Documents\C#\Acmp\Problems\amcp_0003_Square_Csharp\UnitTestCsharp\bin\Debug\UnitTestCsharp.dll
+D:\Documents\C#\Acmp\Problems\amcp_0003_Square_Csharp\UnitTestCsharp\bin\Debug\UnitTestCsharp.pdb
+D:\Documents\C#\Acmp\Problems\amcp_0003_Square_Csharp\UnitTestCsharp\bin\Debug\amcp_0003_Square_Csharp.dll
+D:\Documents\C#\Acmp\Problems\amcp_0003_Square_Csharp\UnitTestCsharp\bin\Debug\amcp_0003_Square_Csharp.pdb
+D:\Documents\C#\Acmp\Problems\amcp_0003_Square_Csharp\UnitTestCsharp\obj\Debug\UnitTestCsharp.csprojResolveAssemblyReference.cache
+D:\Documents\C#\Acmp\Problems\amcp_0003_Square_Csharp\UnitTestCsharp\obj\Debug\UnitTestCsharp.dll
+D:\Documents\C#\Acmp\Problems\amcp_0003_Square_Csharp\UnitTestCsharp\obj\Debug\UnitTestCsharp.pdb

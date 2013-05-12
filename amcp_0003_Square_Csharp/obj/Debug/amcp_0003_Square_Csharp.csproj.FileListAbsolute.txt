@@ -1,0 +1,5 @@
+D:\Documents\C#\Acmp\Problems\amcp_0003_Square_Csharp\amcp_0003_Square_Csharp\bin\Debug\amcp_0003_Square_Csharp.dll
+D:\Documents\C#\Acmp\Problems\amcp_0003_Square_Csharp\amcp_0003_Square_Csharp\bin\Debug\amcp_0003_Square_Csharp.pdb
+D:\Documents\C#\Acmp\Problems\amcp_0003_Square_Csharp\amcp_0003_Square_Csharp\obj\Debug\amcp_0003_Square_Csharp.csprojResolveAssemblyReference.cache
+D:\Documents\C#\Acmp\Problems\amcp_0003_Square_Csharp\amcp_0003_Square_Csharp\obj\Debug\amcp_0003_Square_Csharp.dll
+D:\Documents\C#\Acmp\Problems\amcp_0003_Square_Csharp\amcp_0003_Square_Csharp\obj\Debug\amcp_0003_Square_Csharp.pdb
