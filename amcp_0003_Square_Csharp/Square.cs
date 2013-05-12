@@ -21,7 +21,7 @@ namespace amcp_0003_Square_Csharp
         {
             int result = 0;
 
-
+            result = number * number;
 
             return result;
         }
